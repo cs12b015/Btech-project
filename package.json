@@ -1,0 +1,11 @@
+{
+  "name": "graphalgos",
+  "version": "1.0.0",
+  "description": "prims and kruskal algos in nodejs",
+  "main": "kruskal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jayanth <jayanthk19@gmail.com>",
+  "license": "ISC"
+}
